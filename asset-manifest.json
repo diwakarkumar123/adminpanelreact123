@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/adminpaneldiwakar/static/css/main.df988c30.css",
-    "main.js": "/adminpaneldiwakar/static/js/main.201bc319.js",
-    "static/js/787.d16ce5cb.chunk.js": "/adminpaneldiwakar/static/js/787.d16ce5cb.chunk.js",
-    "index.html": "/adminpaneldiwakar/index.html",
-    "main.df988c30.css.map": "/adminpaneldiwakar/static/css/main.df988c30.css.map",
-    "main.201bc319.js.map": "/adminpaneldiwakar/static/js/main.201bc319.js.map",
-    "787.d16ce5cb.chunk.js.map": "/adminpaneldiwakar/static/js/787.d16ce5cb.chunk.js.map"
+    "main.css": "/demo/static/css/main.df988c30.css",
+    "main.js": "/demo/static/js/main.dbcd1edd.js",
+    "static/js/787.d16ce5cb.chunk.js": "/demo/static/js/787.d16ce5cb.chunk.js",
+    "index.html": "/demo/index.html",
+    "main.df988c30.css.map": "/demo/static/css/main.df988c30.css.map",
+    "main.dbcd1edd.js.map": "/demo/static/js/main.dbcd1edd.js.map",
+    "787.d16ce5cb.chunk.js.map": "/demo/static/js/787.d16ce5cb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.df988c30.css",
-    "static/js/main.201bc319.js"
+    "static/js/main.dbcd1edd.js"
   ]
 }
