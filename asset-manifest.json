@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adminpaneldiwakar/static/css/main.df988c30.css",
+    "main.js": "/adminpaneldiwakar/static/js/main.201bc319.js",
+    "static/js/787.d16ce5cb.chunk.js": "/adminpaneldiwakar/static/js/787.d16ce5cb.chunk.js",
+    "index.html": "/adminpaneldiwakar/index.html",
+    "main.df988c30.css.map": "/adminpaneldiwakar/static/css/main.df988c30.css.map",
+    "main.201bc319.js.map": "/adminpaneldiwakar/static/js/main.201bc319.js.map",
+    "787.d16ce5cb.chunk.js.map": "/adminpaneldiwakar/static/js/787.d16ce5cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df988c30.css",
+    "static/js/main.201bc319.js"
+  ]
+}
