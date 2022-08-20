@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/demo/static/css/main.df988c30.css",
-    "main.js": "/demo/static/js/main.dbcd1edd.js",
-    "static/js/787.d16ce5cb.chunk.js": "/demo/static/js/787.d16ce5cb.chunk.js",
-    "index.html": "/demo/index.html",
-    "main.df988c30.css.map": "/demo/static/css/main.df988c30.css.map",
-    "main.dbcd1edd.js.map": "/demo/static/js/main.dbcd1edd.js.map",
-    "787.d16ce5cb.chunk.js.map": "/demo/static/js/787.d16ce5cb.chunk.js.map"
+    "main.css": "/reactmovieproject/static/css/main.0d3bc3ed.css",
+    "main.js": "/reactmovieproject/static/js/main.89a369b5.js",
+    "static/js/512.c0c1140e.chunk.js": "/reactmovieproject/static/js/512.c0c1140e.chunk.js",
+    "static/media/Netflix Sans Medium.otf": "/reactmovieproject/static/media/Netflix Sans Medium.bd89dc7a3ae394c9f7c8.otf",
+    "static/media/Netflix Sans Light.otf": "/reactmovieproject/static/media/Netflix Sans Light.7494226546f1feeb3664.otf",
+    "static/media/logo.svg": "/reactmovieproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactmovieproject/index.html",
+    "main.0d3bc3ed.css.map": "/reactmovieproject/static/css/main.0d3bc3ed.css.map",
+    "main.89a369b5.js.map": "/reactmovieproject/static/js/main.89a369b5.js.map",
+    "512.c0c1140e.chunk.js.map": "/reactmovieproject/static/js/512.c0c1140e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df988c30.css",
-    "static/js/main.dbcd1edd.js"
+    "static/css/main.0d3bc3ed.css",
+    "static/js/main.89a369b5.js"
   ]
 }
